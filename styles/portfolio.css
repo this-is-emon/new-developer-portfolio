@@ -64,3 +64,14 @@ nav li a {
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }
+
+/* banner styles */
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 35px 0 200px;
+}
+.banner-content {
+  max-width: 580px;
+}
