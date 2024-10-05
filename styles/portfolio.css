@@ -33,3 +33,26 @@ nav li a {
   text-decoration: none;
   font-size: 20px;
 }
+
+/* Nav styles part-2 */
+.nav-title {
+  color: #181818;
+  font-size: 45px;
+  font-weight: 800;
+}
+.text-primary {
+  color: #fd6e0a;
+}
+.dark-2 {
+  color: #474747;
+}
+.btn-primary {
+  background: #fd6e0a;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
