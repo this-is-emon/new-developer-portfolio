@@ -1,6 +1,6 @@
-* {
+/* * {
   margin: 0;
-}
+} */
 
 /* Google Fonts css */
 .open-sans-normal {
@@ -55,4 +55,12 @@ nav li a {
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
+}
+
+/* Header Style */
+.header {
+  background-image: url("../images/developer.png"),
+    url("../images/header_bg.png");
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
