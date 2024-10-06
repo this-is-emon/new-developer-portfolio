@@ -91,3 +91,27 @@ nav li a {
 .banner-profile-pic {
   width: 580px;
 }
+
+/* 'Secondary background' for header and about section   */
+.secondary-bg {
+  background-color: #fff8f3;
+}
+
+/* Keeping all bock elemnts ('About Me', 'What I do' etc inside the 'main' container) */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* about styles - Skaleton */
+.about {
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 130px;
+}
+
+.about-items {
+  display: flex;
+  justify-content: space-between;
+}
