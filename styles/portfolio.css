@@ -213,3 +213,7 @@ footer textarea {
   margin-bottom: 24px;
   border: none;
 }
+
+footer textarea {
+  height: 180px;
+}
